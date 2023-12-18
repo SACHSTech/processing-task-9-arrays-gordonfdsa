@@ -1,7 +1,7 @@
 import processing.core.PApplet;
 
 /**
- * Snowfall game
+ * Snowfall game - When all 3 lives are lost, the game ends 
  * @author: Gordon Z
  *
  */

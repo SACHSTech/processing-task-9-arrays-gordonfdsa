@@ -121,7 +121,7 @@ public class Sketch extends PApplet {
 
 
   /**
-   * Description: detects movement from keys to move the wizard monkey.
+   * Description: detects movement from keys to move the blue circle.
    * 
    * No param
    * No return
