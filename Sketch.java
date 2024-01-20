@@ -1,5 +1,5 @@
 import processing.core.PApplet;
-import processing.core.PImage;
+  import processing.core.PImage;
 
 public class Sketch extends PApplet {
 
